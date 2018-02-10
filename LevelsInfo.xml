@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Missions>
+	<Positions  
+			MARIO_POSITION_X = "105"  MARIO_POSITION_Y = "105"
+			GOODS_POSITION_X = "210"  GOODS_POSITION_Y = "105"
+			STAR_POSITION_X = "350"   STAR_POSITION_Y = "105" /> 
+	
+	<Positions  
+			MARIO_POSITION_X = "70"   MARIO_POSITION_Y = "140"
+			GOODS_POSITION_X = "210"  GOODS_POSITION_Y = "105"
+			STAR_POSITION_X = "350"   STAR_POSITION_Y = "35" />
+	
+				
+</Missions>

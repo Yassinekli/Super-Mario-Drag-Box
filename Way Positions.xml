@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Roads>
+	<Road>
+		<Image X_Position="70"   Y_Position="105" />
+		<Image X_Position="105"  Y_Position="105" />
+		<Image X_Position="140"  Y_Position="105" />
+		<Image X_Position="175"  Y_Position="105" />
+		<Image X_Position="210"  Y_Position="105" />
+		<Image X_Position="245"  Y_Position="105" />
+		<Image X_Position="280"  Y_Position="105" />
+		<Image X_Position="315"  Y_Position="105" />
+		<Image X_Position="350"  Y_Position="105" />
+	</Road>
+	
+	<Road>
+		<Image X_Position="70"    Y_Position="35" />
+		<Image X_Position="105"   Y_Position="35" />
+		<Image X_Position="140"   Y_Position="35" />
+		<Image X_Position="175"   Y_Position="35" />
+		<Image X_Position="210"   Y_Position="35" />
+		<Image X_Position="245"   Y_Position="35" />
+		<Image X_Position="350"   Y_Position="35" />
+		<Image X_Position="385"   Y_Position="35" />
+		<Image X_Position="420"   Y_Position="35" />
+		<Image X_Position="455"   Y_Position="35" />
+		
+		<Image X_Position="70"    Y_Position="70" />
+		<Image X_Position="105"   Y_Position="70" />
+		<Image X_Position="245"   Y_Position="70" />
+		<Image X_Position="350"   Y_Position="70" />
+		<Image X_Position="385"   Y_Position="70" />
+		<Image X_Position="420"   Y_Position="70" />
+		<Image X_Position="455"   Y_Position="70" />
+		
+		<Image X_Position="70"    Y_Position="105" />
+		<Image X_Position="175"   Y_Position="105" />
+		<Image X_Position="210"   Y_Position="105" />
+		<Image X_Position="245"   Y_Position="105" />
+		<Image X_Position="385"   Y_Position="105" />
+		<Image X_Position="420"   Y_Position="105" />
+		<Image X_Position="455"   Y_Position="105" />
+		
+		<Image X_Position="70"    Y_Position="140" />
+		<Image X_Position="105"   Y_Position="140" />
+		<Image X_Position="140"   Y_Position="140" />
+		<Image X_Position="175"   Y_Position="140" />
+		<Image X_Position="210"   Y_Position="140" />
+		<Image X_Position="245"   Y_Position="140" />
+		<Image X_Position="280"   Y_Position="140" />
+		<Image X_Position="315"   Y_Position="140" />
+		<Image X_Position="350"   Y_Position="140" />
+		<Image X_Position="385"   Y_Position="140" />
+		<Image X_Position="420"   Y_Position="140" />
+		<Image X_Position="455"   Y_Position="140" />
+		
+		<Image X_Position="70"    Y_Position="175" />
+		<Image X_Position="105"   Y_Position="175" />
+		<Image X_Position="140"   Y_Position="175" />
+		<Image X_Position="175"   Y_Position="175" />
+		<Image X_Position="210"   Y_Position="175" />
+		<Image X_Position="280"   Y_Position="175" />
+		<Image X_Position="315"   Y_Position="175" />
+		<Image X_Position="350"   Y_Position="175" />
+		<Image X_Position="385"   Y_Position="175" />
+		<Image X_Position="420"   Y_Position="175" />
+		
+		<Image X_Position="175"    Y_Position="210" />
+		<Image X_Position="210"   Y_Position="210" />
+		<Image X_Position="245"   Y_Position="210" />
+		<Image X_Position="280"   Y_Position="210" />
+		<Image X_Position="315"   Y_Position="210" />
+		<Image X_Position="350"   Y_Position="210" />
+		<Image X_Position="385"   Y_Position="210" />
+		
+		<Image X_Position="175"   Y_Position="245" />
+		<Image X_Position="210"   Y_Position="245" />
+		<Image X_Position="245"   Y_Position="245" />
+		<Image X_Position="280"   Y_Position="245" />
+		<Image X_Position="315"   Y_Position="245" />
+		<Image X_Position="350"   Y_Position="245" />
+		
+	</Road>
+</Roads>
